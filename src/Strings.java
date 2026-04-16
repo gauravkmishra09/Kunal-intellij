@@ -19,6 +19,6 @@ public class Strings {
         System.out.println(ab.equals(cd)); //function in java which dont care if new used or not
 
 
-        System.out.println(a.charAt(0));
+        System.out.println(a.charAt(1));
     }
 }
